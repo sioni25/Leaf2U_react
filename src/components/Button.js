@@ -16,7 +16,7 @@ import { Button as MuiButton } from '@mui/material';
  */
 const Button = ({ text, onClick }) => {
     return (
-        <div className="p-2">
+        <div className="p-3">
             <MuiButton
                 variant="contained"
                 disableElevation
