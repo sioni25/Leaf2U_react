@@ -44,8 +44,5 @@
 https://www.figma.com/design/MzUjlbn5DfQmcFDjdAKT5n/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8---Leaf-To-You-%EB%AA%A9%EC%97%85?node-id=1224-1866&p=f&t=3tJeA6gpPhIHsV5l-0
 
 
-## 발표 PPT
-[Leaf2U-PPT.pdf](https://github.com/user-attachments/files/19416358/Leaf2U-PPT.pdf)
-
 ## Leaf2U_api
-https://github.com/ShinhanDS4-2/Leaf2U_api
+https://github.com/sioni25/Leaf2U_api
